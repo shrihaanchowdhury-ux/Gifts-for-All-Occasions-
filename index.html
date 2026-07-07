@@ -11,8 +11,81 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
 
-	<link rel="stylesheet" href="style.css">
+	 <style>
+        body {
+            background-color: #e0f2fe;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #1d3557;
+            font-family: 'Playfair Display', serif;
+            font-size: 300%;
+        }
+
+        h2 {
+            color: #1d3557;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 180%;
+        }
+
+        p {
+            color: #1b263b;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 150%;
+        }
+
+        /* Dropdown Navigation Menu */
+        .navigation_button {
+            position: relative;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+
+        .navigation_drops_down {
+            background-color: #1d3557;
+            color: white;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+            border-radius: 4px;
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        .links_to_other_pages {
+            display: none; 
+            position: absolute;
+            background-color: #ffffff;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            padding: 12px 16px;
+            list-style: none;
+            margin: 0;
+            z-index: 1;
+            border-radius: 4px;
+        }
+
+        .links_to_other_pages a {
+            color: #1d3557;
+            text-decoration: none;
+            display: block;
+            padding: 8px 0;
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        .links_to_other_pages a:hover {
+            color: #032b53;
+            text-decoration: underline;
+        }
+
+        .navigation_button:hover .links_to_other_pages {
+            display: block; 
+        }
+    </style>
 </head>
+<body>
+
     	
 	
 		<div class="navigation_button">
@@ -26,7 +99,7 @@
 
 
 
-<body>
+
 	
 	<h1>Welcome to Gifts for All Occasions!</h1>
     <h2> Summer Gifts Wrapped with the Stripes of America!</h2>
