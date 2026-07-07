@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+
+
+    <meta charset="UTF-8">
+    
+    <title>Gifts for All Occasions!</title>
+    	<div class="dropdown">
+  	<button class="dropbtn">Navigation</button>
+  	<ul class="dropdown-content">
+    	<li><a href="homepage">Home Page</a></li>
+    	<li><a href="gifts">Gifts</a></li>
+   	 <li><a href="contact.payment">Contact & Payment</a></li>
+  	</ul>
+	</div>
+
+	<h1 style="text-align:center;">Contact Info and Payment Options</h1>
+	<p1 style="text-align:center;">Payment Options include:</p1>
+	
+    <ul>
+  		<li>Paypal</li>
+ 		<li> Apple Pay</li>
+  		<li>Google Pay</li>
+	</ul>
+    
+	<p2 style="text-align:center;">If you need to reach us:</p2>
+    
+    <ul>
+  		<li>Mr. Cooksay</li>
+ 		<li>Email: j.cooksay@oakridgeacademy.edu</li>
+  		<li>Phone: (404) 555-0174</li>
+	</ul>
+    
+    
+    <p3>If possible, please complete this form for us.</p3>
+  
+ 
+
+
+</head>
+<body>
+	
+   
+   
+   
+   
+   <form>
+  <label for="experience">Overall, how many stars would you rate our website?:</label><br>
+  <input type="number" id="experience" name="experience" min="1" max="5" value=""><br>
+  <label for="newproduct">Name one product you would like to see on our website in the future?:</label><br>
+  <input type="text" id="newproduct" name="newproduct" value="">
+</form>
+<button type="submit">Submit Form</button>
+ 
+<p>Please note that only a number is needed for the first question, and up to twenty characters per text entry.</p>
+
+<p>All responses are really appreciated. Thanks for visiting Gifts for All Occasions!</p>
