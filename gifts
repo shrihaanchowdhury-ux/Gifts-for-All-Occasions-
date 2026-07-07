@@ -8,9 +8,9 @@
     <meta charset="UTF-8">
     
     <title>Gifts for All Occasions!</title>
-    	<div class="dropdown">
-  	<button class="dropbtn">Navigation</button>
-  	<ul class="dropdown-content">
+    	<div class="navigation_button">
+  	<button class="navigation_drops_down">Navigation</button>
+  	<ul class="links_to_other_pages">
     	<li><a href="homepage">Home Page</a></li>
     	<li><a href="gifts">Gifts</a></li>
    	 <li><a href="contact.payment">Contact & Payment</a></li>
