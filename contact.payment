@@ -16,7 +16,7 @@
    	 <li><a href="contact.payment">Contact & Payment</a></li>
   	</ul>
 	</div>
-
+<!--Thought it looked better to align the heading, didn't know how to do it last time.Use w3School website if needed for more tweaking-->
 	<h1 style="text-align:center;">Contact Info and Payment Options</h1>
 	<p1 style="text-align:center;">Payment Options include:</p1>
 	
@@ -29,6 +29,7 @@
 	<p2 style="text-align:center;">If you need to reach us:</p2>
     
     <ul>
+<!--Didn't use actual personal information, in case of a security breach, just mock information to accomplish the task of contact info for website-->
   		<li>Mr. Cooksay</li>
  		<li>Email: j.cooksay@oakridgeacademy.edu</li>
   		<li>Phone: (404) 555-0174</li>
@@ -48,6 +49,7 @@
    
    
    <form>
+<!-- Found this on Html<form>-->
   <label for="experience">Overall, how many stars would you rate our website?:</label><br>
   <input type="number" id="experience" name="experience" min="1" max="5" value=""><br>
   <label for="newproduct">Name one product you would like to see on our website in the future?:</label><br>
