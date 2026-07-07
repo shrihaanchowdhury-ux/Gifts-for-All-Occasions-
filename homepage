@@ -7,7 +7,7 @@
 
 
     <meta charset="UTF-8">
-    
+    <!--This is the title of Mr. Cooksay's business. I like Fourth of July, so I will chose that holiday-->
     <title>Gifts for All Occasions!</title>
     	<div class="navigation_button">
   	<button class="navigation_drops_down">Navigation</button>
