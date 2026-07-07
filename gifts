@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+
+
+    <meta charset="UTF-8">
+    
+    <title>Gifts for All Occasions!</title>
+    	<div class="dropdown">
+  	<button class="dropbtn">Navigation</button>
+  	<ul class="dropdown-content">
+    	<li><a href="homepage">Home Page</a></li>
+    	<li><a href="gifts">Gifts</a></li>
+   	 <li><a href="contact.payment">Contact & Payment</a></li>
+  	</ul>
+	</div>
+
+
+	<h1>Fourth of July Gifts and Merch!</h1>
+    <p1>Some of our many incredible gifts include- </p1>
+    <ul>
+  		<li>USA 250th Anniversary Heirloom Porcelain Masterpiece 			Stein-$119.99
+
+ </li>
+ 		<li>USA 250th Anniversary Wall Bell, Patriotic Freedom Eagle Doorbell, 4th Of July Gift 685286-$41.95 </li>
+  		<li>Custom Patriotic Bobblehead with 250th Anniversary Hat-$89
+ </li>
+	</ul>
+    
+    
+  
+ 
+
+
+</head>
+<body>
+	<figure>
+  <img src="images/fireworks.jpg" alt="Bradfordexchange.com" width="340" height="250">
+  <figcaption>USA 250th Anniversary Heirloom Porcelain Masterpiece Stein</figcaption>
+	</figure>
+    
+    
+    
+    
+
+
+
+
+</body>
+
+</html>
