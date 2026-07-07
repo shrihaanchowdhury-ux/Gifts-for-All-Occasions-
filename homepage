@@ -23,7 +23,8 @@
 
 </head>
 <body>
-	<img src="" alt="History.com" width="340" height="250">
+	<!--Downloaded this from History.com, check the length and width-->
+    <img src="250th Independence Day, Happy fourth of July.jpg" alt="History.com" width="340" height="250">
 	<p> Store Hours: 10 AM-8PM.</p>
 
 
