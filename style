@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+ <!--I chose different colors for the heading and paragraph, and the background is light enough to contrast with the navy blue font. The Open Sans font is looking good, but if needed change font size--> 
+  background-color:#e0f2fe;
+  h1 {
+    color: #1d3557;
+    font-family: Playfair Display;
+    font-size: 450%;
+
+  }
+  p  {
+    color:#1b263b;
+    font-family: Open Sans;
+    font-size: 200%;
+  }
+
+<!--Had to get AI's guided learning help to further develop the drop down menu, since last project it didn't work properly-->
+.navigation_button {
+  position: relative;
+  display: inline-block;
+}
+
+.links_to_other_pages {
+  display: none; 
+  position: absolute;
+  background-color: #f9f9f9;
+}
+
+.navigation_button:hover .links_to_other_pages {
+  display: block; 
+}
+</style>
+</head>
+<body>
 
